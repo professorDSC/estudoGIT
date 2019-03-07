@@ -3,6 +3,7 @@ package br.com.jeferson.classes;
 /**
  * 
  * @author Professor jeferson Queiroga Pereira.
+ * @author Aluno Jeferson
  *
  */
 public class Teste {
