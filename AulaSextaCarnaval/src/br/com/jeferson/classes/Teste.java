@@ -5,6 +5,7 @@ package br.com.jeferson.classes;
  * @author Professor jeferson Queiroga Pereira.
  * @author Aluno Jeferson
  * @autor Professor Michel
+ *
  */
 public class Teste {
 	public static void main(String[] args) {
