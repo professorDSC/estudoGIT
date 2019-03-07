@@ -7,8 +7,7 @@ public class Testando {
 		
 	}
    
-  
-  
+ 
   public void teste(){
       //implementar
   }
