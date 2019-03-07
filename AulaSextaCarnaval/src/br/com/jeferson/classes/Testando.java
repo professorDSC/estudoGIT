@@ -3,7 +3,7 @@ package br.com.jeferson.classes;
 public class Testando {
 
 	public void metodoLocal() {
-
+		System.out.println("Testando git");
 	}
 	//Testando
 	public void teste() {
