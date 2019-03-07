@@ -4,7 +4,8 @@ package br.com.jeferson.classes;
  * 
  * @author Professor jeferson Queiroga Pereira.
  * @author Aluno Jeferson
- * @autor Professor Michel
+ * @autor Professor Michel Fernandes
+ * @author Professor Alan.
  *
  */
 public class Teste {
