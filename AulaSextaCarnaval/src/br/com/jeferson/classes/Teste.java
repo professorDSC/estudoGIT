@@ -2,7 +2,7 @@ package br.com.jeferson.classes;
 
 /**
  * 
- * @author Professor jeferson
+ * @author Professor jeferson Queiroga
  *
  */
 public class Teste {
