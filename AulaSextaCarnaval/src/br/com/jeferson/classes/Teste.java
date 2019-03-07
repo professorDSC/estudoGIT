@@ -2,7 +2,8 @@ package br.com.jeferson.classes;
 
 /**
  * 
- * @author Professor jeferson Queiroga
+ * @author Professor jeferson Queiroga Pereira.
+ * @author Jeferson (aluno)
  *
  */
 public class Teste {
