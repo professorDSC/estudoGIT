@@ -7,7 +7,7 @@ package br.com.jeferson.classes;
  * @autor Professor Michel Fernandes
  * @author Professor Alan.
  * @autor Bonfim
- * @autor Roberto Paiva
+ *
  */
 public class Teste {
 	public static void main(String[] args) {
