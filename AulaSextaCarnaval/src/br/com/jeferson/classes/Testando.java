@@ -8,9 +8,13 @@ public class Testando {
 	}
    
  
-  public void teste(){
-      //implementar
-  }
+	  public void teste(){
+	      //implementar
+	  }
+	
+	public void teste2(){
+	
+	}	
 
 }
 
