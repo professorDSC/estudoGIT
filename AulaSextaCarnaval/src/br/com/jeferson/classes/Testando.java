@@ -5,7 +5,7 @@ public class Testando {
 	public void metodoLocal() {
 
 	}
-
+	//Testando
 	public void teste() {
 		// implementar
 	}
@@ -13,9 +13,13 @@ public class Testando {
 	public void novaFuncaoPrograma() {
 		
 	}
-
+	//testando
 	public void teste2(){
 	
-	}	
+	}
+	
+	public void realizandoTeste() {
+		
+	}
 
 }
