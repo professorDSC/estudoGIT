@@ -14,7 +14,6 @@ public class Testando {
 		
 	}
 
-   	
 	public void teste2(){
 	
 	}	
