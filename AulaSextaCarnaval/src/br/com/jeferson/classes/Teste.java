@@ -19,7 +19,7 @@ public class Teste {
 	}
 	
 	public static void alteracao02() {
-		System.out.println("teste fdfdfdf");
+		System.out.println("João");
 	}
 	
 	
