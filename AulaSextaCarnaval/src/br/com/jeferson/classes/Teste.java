@@ -20,6 +20,7 @@ public class Teste {
 	
 	public static void alteracao02() {
 		System.out.println("João");
+		System.out.println("Maria");
 	}
 	
 	
