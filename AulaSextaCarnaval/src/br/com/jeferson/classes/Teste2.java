@@ -17,5 +17,8 @@ public class Teste2 {
 	
 	public void funcao4() {
 		System.out.println("Testando 4");
+		System.out.println("Testando");
 	}
+	
+	
 }
