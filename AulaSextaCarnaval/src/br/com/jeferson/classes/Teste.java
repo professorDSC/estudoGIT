@@ -27,6 +27,7 @@ public class Teste {
 		System.out.println("Francisca");
 	}
 	
+	public static void alteracao04(){}
 	
 	
 }
