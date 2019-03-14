@@ -23,11 +23,7 @@ public class Teste {
 		System.out.println("Maria");
 	}
 	
-	public static void alteracao03() {
-		System.out.println("Francisca");
-	}
 	
-	public static void alteracao04(){}
 	
 	
 }
