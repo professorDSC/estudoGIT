@@ -20,5 +20,7 @@ public class Teste2 {
 		System.out.println("Testando");
 	}
 	
-	
+	public void saoFrancisco() {
+		
+	}
 }
